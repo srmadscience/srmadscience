@@ -18,4 +18,4 @@ I have many years of experience working with data and was working with ‘Big Da
 * Experience leading global specialist teams effectively and efficiently.
 
 # Personal Attributes
-(LinkedIn)[https://www.linkedin.com/in/srmadscience]
+[LinkedIn](https://www.linkedin.com/in/srmadscience)
