@@ -19,6 +19,6 @@ I have many years of experience working with data and was working with ‘Big Da
 
 # Links
 
-[LinkedIn](https://www.linkedin.com/in/srmadscience)
-[Personal Web Site](https://www.rolfe.ie/)
-[Substack](https://srmadscience.substack.com/)
+* [LinkedIn](https://www.linkedin.com/in/srmadscience)
+* [Personal Web Site](https://www.rolfe.ie/)
+* [Substack](https://srmadscience.substack.com/)
