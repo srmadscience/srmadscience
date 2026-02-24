@@ -17,5 +17,8 @@ I have many years of experience working with data and was working with ‘Big Da
 * Expertise in leading blue sky projects that involve leading edge technology while maintaining a business perspective.
 * Experience leading global specialist teams effectively and efficiently.
 
-# Personal Attributes
+# Links
+
 [LinkedIn](https://www.linkedin.com/in/srmadscience)
+[Personal Web Site](https://www.rolfe.ie/)
+[Substack](https://srmadscience.substack.com/)
