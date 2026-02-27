@@ -27,9 +27,6 @@ I have many years of experience working with data and was working with ‘Big Da
 
 ## Volt Active Data
 
-* [YCSB](https://github.com/srmadscience/YCSB) Yahoo! Cloud Serving Benchmark
-* [voltdb](https://github.com/srmadscience/voltdb) VoltDB
-
 ### Sandboxes and benchmark code
 
 * [voltdb-charglt](https://github.com/srmadscience/voltdb-charglt) Charging Demo: A non-trivial telco focused Volt Active Data example
@@ -49,10 +46,9 @@ I have many years of experience working with data and was working with ‘Big Da
 * [voltdb-iotcars](https://github.com/srmadscience/voltdb-iotcars) A voltDB IOT sandbox for matching electric cars with chargers and using a prepaid phone to pay
 
 
-
 ### XDCR Examples 
 
-s [voltdb-xdcr-aware-client](https://github.com/srmadscience/voltdb-xdcr-aware-client) 
+* [voltdb-xdcr-aware-client](https://github.com/srmadscience/voltdb-xdcr-aware-client) 
 * [voltdb-xdcrchargingdemo](https://github.com/srmadscience/voltdb-xdcrchargingdemo) 
 
 ### General Examples 
