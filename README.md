@@ -125,7 +125,5 @@ I got fed up with the lack of a countdown timer on my Bosch dishwasher, so I [im
 ## Other
 
 * [filewrangling-utils](https://github.com/srmadscience/filewrangling-utils) Utility classes for fixing flat files
-* [drjt](https://github.com/srmadscience/drjt)
 * [gdocs2md](https://github.com/srmadscience/gdocs2md) Convert a Google Drive Document to the Markdown format, suitable for publishing
-* [simple-python-pyinstaller-app](https://github.com/srmadscience/simple-python-pyinstaller-app)
 
