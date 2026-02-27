@@ -22,15 +22,16 @@ I have many years of experience working with data and was working with ‘Big Da
 
 ## Volt Active Data
 
-* [addToDeploymentDotXml](https://github.com/srmadscience/addToDeploymentDotXml)
-* [binarydiff](https://github.com/srmadscience/binarydiff)
-* [Convert2VoltDB](https://github.com/srmadscience/Convert2VoltDB)
+### Examples of LRU Cache Code
+
 * [lrucache_client](https://github.com/srmadscience/lrucache_client)
 * [lrucache_client_cassandra](https://github.com/srmadscience/lrucache_client_cassandra)
 * [lrucache_client_oracle](https://github.com/srmadscience/lrucache_client_oracle)
 * [lrucache_client_postgres](https://github.com/srmadscience/lrucache_client_postgres)
 * [lrucache_sdk](https://github.com/srmadscience/lrucache_sdk)
 * [lrucache_server](https://github.com/srmadscience/lrucache_server)
+
+### Examples of generated code to call TMForum APIs
 
 * [TMF654-PrepayBalance-v4.0.0-client](https://github.com/srmadscience/TMF654-PrepayBalance-v4.0.0-client)
 * [TMF654-PrepayBalance-v4.0.0-server](https://github.com/srmadscience/TMF654-PrepayBalance-v4.0.0-server)
@@ -40,6 +41,12 @@ I have many years of experience working with data and was working with ‘Big Da
 * [volt-activeSD101](https://github.com/srmadscience/volt-activeSD101)
 * [volt-aggdemo-voltsp](https://github.com/srmadscience/volt-aggdemo-voltsp)
 * [volt-flightcache](https://github.com/srmadscience/volt-flightcache)
+
+### Other Code
+
+* [addToDeploymentDotXml](https://github.com/srmadscience/addToDeploymentDotXml)
+* [binarydiff](https://github.com/srmadscience/binarydiff)
+* [Convert2VoltDB](https://github.com/srmadscience/Convert2VoltDB)
 
 ## Telco Charging Demo and Benchmark
 
@@ -54,14 +61,12 @@ I have many years of experience working with data and was working with ‘Big Da
 * [jdbcwizard-pub](https://github.com/srmadscience/jdbcwizard-pub)
 * [jdbcwizard-test-code](https://github.com/srmadscience/jdbcwizard-test-code)
 
-
 ## Home IOT
 
 I got fed up with the lack of a countdown timer on my Bosch dishwasher, so I [implemented one](https://www.linkedin.com/posts/srmadscience_mqtt-at-home-for-fun-and-profit-i-have-activity-7425472798124523521-Yu3g?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABZpVsBZ3JZV_O5Q_nBmZtQXy3bpIGlQK8) using a Raspberry Pi and an ePaper display
 
 * [bosch-dishwasher-control](https://github.com/srmadscience/bosch-dishwasher-control)
 * [hcpy-hacked](https://github.com/srmadscience/hcpy-hacked)
-
 
 ## Other
 
