@@ -27,75 +27,57 @@ I have many years of experience working with data and was working with ‘Big Da
 
 ## Volt Active Data
 
-### Sandboxes
+* [YCSB](https://github.com/srmadscience/YCSB) Yahoo! Cloud Serving Benchmark
+* [voltdb](https://github.com/srmadscience/voltdb) VoltDB
 
-* [voltdb-deleteallrows](https://github.com/srmadscience/voltdb-deleteallrows)Example of how to delete all rows
-* [filewrangling-utils](https://github.com/srmadscience/filewrangling-utils) Utility classes for fixing flat files
-* [s2-charglt](https://github.com/srmadscience/s2-charglt) SingleStore implemention of charglt
-* [redis-charglt](https://github.com/srmadscience/redis-charglt) REDIS implementation of ChargLT
-* [mongodb-charglt](https://github.com/srmadscience/mongodb-charglt) Mongo implementation of Charglt
+### Sandboxes and benchmark code
+
 * [voltdb-charglt](https://github.com/srmadscience/voltdb-charglt) Charging Demo: A non-trivial telco focused Volt Active Data example
-* [bosch-dishwasher-control](https://github.com/srmadscience/bosch-dishwasher-control) An example of reading MQTT data from a bosch dishwasher and updating an ePaper sign.
-* [jdbcwizard-pub](https://github.com/srmadscience/jdbcwizard-pub) Public utility library for JDBCWizard. This code contains useful functionality for working with Oracle, JDBC and PL/SQL
 * [voltdb-tatpbenchmark](https://github.com/srmadscience/voltdb-tatpbenchmark) An VoltDB implementation of "Telecom Application Transaction Processing" benchmark
-* [drjt](https://github.com/srmadscience/drjt) 
-* [jdbcwizard-dbhell](https://github.com/srmadscience/jdbcwizard-dbhell) This is a set of Oracle schemas designed to fully exercise what is syntacticly possible JDBCWizard can generate Java code to run all the examples here.
-* [jdbcwizard-test-code](https://github.com/srmadscience/jdbcwizard-test-code) Examples of code generated to test JDBCWizard.
-* [jdbcwizard-demo-code](https://github.com/srmadscience/jdbcwizard-demo-code) 
 * [volt-tpcc-sandbox](https://github.com/srmadscience/volt-tpcc-sandbox) 
 * [voltdb-subway](https://github.com/srmadscience/voltdb-subway) Sandbox based on real Transport For London data set
-* [voltdb-nwaysettlement](https://github.com/srmadscience/voltdb-nwaysettlement) N Way Settlement with compound procs example
 * [voltdb-javacache-sandbox](https://github.com/srmadscience/voltdb-javacache-sandbox) A sandbox application for a VoltDB JSR107 implemtation.
 * [voltdb-simbox-with-rules](https://github.com/srmadscience/voltdb-simbox-with-rules) Simbox demo with DML driven rule engine
 * [voltdb-simbox](https://github.com/srmadscience/voltdb-simbox) Simbox detection sandbox
 * [voltdb-policysandbox](https://github.com/srmadscience/voltdb-policysandbox) A Sandbox Policy Implementation for VoltDB
 * [voltdb-cvmsandbox](https://github.com/srmadscience/voltdb-cvmsandbox) CVM Sandbox
 * [voltdb-aggdemo](https://github.com/srmadscience/voltdb-aggdemo) A demonstration of how VoltDB can be used for the kind of streaming aggregation tasks common in Telco
-* [volt-run-ycsb](https://github.com/srmadscience/volt-run-ycsb) Runs a YCSB benchmark on Volt, assuming AWS
-* [volt-timeseries](https://github.com/srmadscience/volt-timeseries) Prototype time series data handling
-* [voltdb-javacache](https://github.com/srmadscience/voltdb-javacache) 
-* [volt-flightcache](https://github.com/srmadscience/volt-flightcache) A example of how to use Volt compund procedures for rapid lookup of flight data
 * [voltdb-rules](https://github.com/srmadscience/voltdb-rules) 
-* [TMF654-PrepayBalance-v4.0.0-client](https://github.com/srmadscience/TMF654-PrepayBalance-v4.0.0-client) 
-* [TMF654-PrepayBalance-v4.0.0-server](https://github.com/srmadscience/TMF654-PrepayBalance-v4.0.0-server) 
-* [TMF654-PrepayBalance-v4.0.0-volt](https://github.com/srmadscience/TMF654-PrepayBalance-v4.0.0-volt) 
-* [voltdb-xdcr-aware-client](https://github.com/srmadscience/voltdb-xdcr-aware-client) 
-* [volt-simple-kafka](https://github.com/srmadscience/volt-simple-kafka) A simple Kafka demo for Volt Active Data
 * [volt-aggdemo-voltsp](https://github.com/srmadscience/volt-aggdemo-voltsp) Demo of Volt's new stateless processing functionality
-* [volt-vlmc2](https://github.com/srmadscience/volt-vlmc2) 
-* [volt-vlmc](https://github.com/srmadscience/volt-vlmc) 
-* [lrucache_server](https://github.com/srmadscience/lrucache_server) 
-* [lrucache_sdk](https://github.com/srmadscience/lrucache_sdk) 
-* [lrucache_client_postgres](https://github.com/srmadscience/lrucache_client_postgres) 
-* [lrucache_client_oracle](https://github.com/srmadscience/lrucache_client_oracle) 
-* [lrucache_client_cassandra](https://github.com/srmadscience/lrucache_client_cassandra) 
-* [lrucache_client](https://github.com/srmadscience/lrucache_client) 
-* [volt-activeSD101](https://github.com/srmadscience/volt-activeSD101) Tutorials for moving Kafka workloads to Volt Active Data
-* [voltseconvertoracleexample](https://github.com/srmadscience/voltseconvertoracleexample) 
-* [voltseconvert](https://github.com/srmadscience/voltseconvert) 
-* [smartdenserank](https://github.com/srmadscience/smartdenserank) 
-* [voltdb-autojar](https://github.com/srmadscience/voltdb-autojar) 
-* [voltdb-runoncepercluster](https://github.com/srmadscience/voltdb-runoncepercluster) 
-* [addToDeploymentDotXml](https://github.com/srmadscience/addToDeploymentDotXml) 
-* [voltdb-clite](https://github.com/srmadscience/voltdb-clite) A simplistic sandbox charging demo.
 * [voltdb-h2o-mojo-demo](https://github.com/srmadscience/voltdb-h2o-mojo-demo) A demonstration of how to use H2O's MOJOs in VoltDB
-* [volt-secure-tokens](https://github.com/srmadscience/volt-secure-tokens) Simple demo to show how volt can be used to provide secure tokens, each of which can
-* [voltdb-iotcars](https://github.com/srmadscience/voltdb-iotcars) A voltDB IOT sandbox for matching electric cars with chargers and using a prepaid phone to pay
 * [voltdb-task-and-migrate-demo](https://github.com/srmadscience/voltdb-task-and-migrate-demo) 
+* [voltdb-iotcars](https://github.com/srmadscience/voltdb-iotcars) A voltDB IOT sandbox for matching electric cars with chargers and using a prepaid phone to pay
+
+
+
+### XDCR Examples 
+
+s [voltdb-xdcr-aware-client](https://github.com/srmadscience/voltdb-xdcr-aware-client) 
 * [voltdb-xdcrchargingdemo](https://github.com/srmadscience/voltdb-xdcrchargingdemo) 
-* [voltdb-schemabuilder](https://github.com/srmadscience/voltdb-schemabuilder) Utility to create and load procedure JAR files
-* [Convert2VoltDB](https://github.com/srmadscience/Convert2VoltDB) 
-* [VoltSeUtils](https://github.com/srmadscience/VoltSeUtils) Core utility classes for VoltDB SE
-* [binarydiff](https://github.com/srmadscience/binarydiff) This repository contains FastAndRuthlessDiffImpl, which is used to reduce network bandwidth when working with byte[] objects that are being changed slightly by a client before being sent back to a server.
-* [hcpy-hacked](https://github.com/srmadscience/hcpy-hacked) Python tool to talk to Home Connect appliances over the local network (no cloud required)
-* [simple-python-pyinstaller-app](https://github.com/srmadscience/simple-python-pyinstaller-app) For an introductory tutorial on how to use Jenkins to build a simple Python application with PyInstaller.
-* [YCSB](https://github.com/srmadscience/YCSB) Yahoo! Cloud Serving Benchmark
-* [voltdb](https://github.com/srmadscience/voltdb) VoltDB
-* [gdocs2md](https://github.com/srmadscience/gdocs2md) Convert a Google Drive Document to the Markdown format, suitable for publishing
-
-
 
 ### General Examples 
+
+* [voltdb-nwaysettlement](https://github.com/srmadscience/voltdb-nwaysettlement) N Way Settlement with compound procs example
+* [volt-flightcache](https://github.com/srmadscience/volt-flightcache) A example of how to use Volt compund procedures for rapid lookup of flight data
+* [volt-timeseries](https://github.com/srmadscience/volt-timeseries) Prototype time series data handling
+* [volt-simple-kafka](https://github.com/srmadscience/volt-simple-kafka) A simple Kafka demo for Volt Active Data
+* [volt-vlmc2](https://github.com/srmadscience/volt-vlmc2) 
+* [volt-vlmc](https://github.com/srmadscience/volt-vlmc) 
+* [voltdb-deleteallrows](https://github.com/srmadscience/voltdb-deleteallrows)Example of how to delete all rows
+* [volt-secure-tokens](https://github.com/srmadscience/volt-secure-tokens) Simple demo to show how volt can be used to provide secure tokens
+* [voltdb-clite](https://github.com/srmadscience/voltdb-clite) A simplistic sandbox charging demo.
+* [binarydiff](https://github.com/srmadscience/binarydiff) This repository contains FastAndRuthlessDiffImpl, which is used to reduce network bandwidth when working with byte[] objects that are being changed slightly by a client before being sent back to a server.
+* [smartdenserank](https://github.com/srmadscience/smartdenserank)
+* [volt-activeSD101](https://github.com/srmadscience/volt-activeSD101) Tutorials for moving Kafka workloads to Volt Active Data
+
+### Volt Utilities
+
+* [voltseconvert](https://github.com/srmadscience/voltseconvert) 
+* [voltseconvertoracleexample](https://github.com/srmadscience/voltseconvertoracleexample) 
+* [voltdb-autojar](https://github.com/srmadscience/voltdb-autojar) 
+* [voltdb-schemabuilder](https://github.com/srmadscience/voltdb-schemabuilder) Utility to create and load procedure JAR files
+* [VoltSeUtils](https://github.com/srmadscience/VoltSeUtils) Core utility classes for VoltDB SE
+* [Convert2VoltDB](https://github.com/srmadscience/Convert2VoltDB) 
 
 ### Examples of LRU Cache Code
 
@@ -112,10 +94,10 @@ I have many years of experience working with data and was working with ‘Big Da
 * [TMF654-PrepayBalance-v4.0.0-server](https://github.com/srmadscience/TMF654-PrepayBalance-v4.0.0-server)
 * [TMF654-PrepayBalance-v4.0.0-volt](https://github.com/srmadscience/TMF654-PrepayBalance-v4.0.0-volt)
 
-* [smartdenserank](https://github.com/srmadscience/smartdenserank)
-* [volt-activeSD101](https://github.com/srmadscience/volt-activeSD101)
-* [volt-aggdemo-voltsp](https://github.com/srmadscience/volt-aggdemo-voltsp)
-* [volt-flightcache](https://github.com/srmadscience/volt-flightcache)
+
+### YCSB
+
+* [volt-run-ycsb](https://github.com/srmadscience/volt-run-ycsb) Runs a YCSB benchmark on Volt, assuming AWS
 
 ### Other Code
 
@@ -125,28 +107,29 @@ I have many years of experience working with data and was working with ‘Big Da
 
 ## Telco Charging Demo and Benchmark
 
-* [mongodb-charglt](https://github.com/srmadscience/mongodb-charglt)
-* [redis-charglt](https://github.com/srmadscience/redis-charglt)
-* [s2-charglt](https://github.com/srmadscience/s2-charglt)
+* [voltdb-charglt](https://github.com/srmadscience/voltdb-charglt) Charging Demo: A non-trivial telco focused Volt Active Data example
+* [s2-charglt](https://github.com/srmadscience/s2-charglt) SingleStore implemention of charglt
+* [redis-charglt](https://github.com/srmadscience/redis-charglt) REDIS implementation of ChargLT
+* [mongodb-charglt](https://github.com/srmadscience/mongodb-charglt) Mongo implementation of Charglt
 
 ## JDBCWizard
 
-* [jdbcwizard-dbhell](https://github.com/srmadscience/jdbcwizard-dbhell)
-* [jdbcwizard-demo-code](https://github.com/srmadscience/jdbcwizard-demo-code)
-* [jdbcwizard-pub](https://github.com/srmadscience/jdbcwizard-pub)
-* [jdbcwizard-test-code](https://github.com/srmadscience/jdbcwizard-test-code)
+* [jdbcwizard-pub](https://github.com/srmadscience/jdbcwizard-pub) Public utility library for JDBCWizard. This code contains useful functionality for working with Oracle, JDBC and PL/SQL
+* [jdbcwizard-dbhell](https://github.com/srmadscience/jdbcwizard-dbhell) This is a set of Oracle schemas designed to fully exercise what is syntacticly possible JDBCWizard can generate Java code to run all the examples here.
+* [jdbcwizard-test-code](https://github.com/srmadscience/jdbcwizard-test-code) Examples of code generated to test JDBCWizard.
+* [jdbcwizard-demo-code](https://github.com/srmadscience/jdbcwizard-demo-code) 
 
 ## Home IOT
 
 I got fed up with the lack of a countdown timer on my Bosch dishwasher, so I [implemented one](https://www.linkedin.com/posts/srmadscience_mqtt-at-home-for-fun-and-profit-i-have-activity-7425472798124523521-Yu3g?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABZpVsBZ3JZV_O5Q_nBmZtQXy3bpIGlQK8) using a Raspberry Pi and an ePaper display
 
-* [bosch-dishwasher-control](https://github.com/srmadscience/bosch-dishwasher-control)
+* [bosch-dishwasher-control](https://github.com/srmadscience/bosch-dishwasher-control) An example of reading MQTT data from a bosch dishwasher and updating an ePaper sign.
 * [hcpy-hacked](https://github.com/srmadscience/hcpy-hacked)
 
 ## Other
 
-* [filewrangling-utils](https://github.com/srmadscience/filewrangling-utils)
+* [filewrangling-utils](https://github.com/srmadscience/filewrangling-utils) Utility classes for fixing flat files
 * [drjt](https://github.com/srmadscience/drjt)
-* [gdocs2md](https://github.com/srmadscience/gdocs2md)
+* [gdocs2md](https://github.com/srmadscience/gdocs2md) Convert a Google Drive Document to the Markdown format, suitable for publishing
 * [simple-python-pyinstaller-app](https://github.com/srmadscience/simple-python-pyinstaller-app)
 
