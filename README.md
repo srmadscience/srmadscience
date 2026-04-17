@@ -125,6 +125,7 @@ these have been tested at scale, as each one would run up an AWS bill to properl
 * [s2-charglt](https://github.com/srmadscience/s2-charglt) SingleStore implemention of charglt
 * [redis-charglt](https://github.com/srmadscience/redis-charglt) REDIS implementation of ChargLT
 * [mongodb-charglt](https://github.com/srmadscience/mongodb-charglt) Mongo implementation of Charglt
+* [postgres-charglt](https://github.com/srmadscience/postgres-charglt) Postgres implementation of Charglt
 
 ## JDBCWizard
 
