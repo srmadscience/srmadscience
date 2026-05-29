@@ -149,6 +149,10 @@ I got fed up with the lack of a countdown timer on my Bosch dishwasher, so I [im
 * [bosch-dishwasher-control](https://github.com/srmadscience/bosch-dishwasher-control) An example of reading MQTT data from a bosch dishwasher and updating an ePaper sign.
 * [hcpy-hacked](https://github.com/srmadscience/hcpy-hacked)
 
+## CrateDB
+
+* [CrateDB Explore](https://github.com/crate/cratedb-explore)
+
 ## Other
 
 * [filewrangling-utils](https://github.com/srmadscience/filewrangling-utils) Utility classes for fixing flat files
