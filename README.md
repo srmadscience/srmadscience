@@ -152,9 +152,10 @@ I got fed up with the lack of a countdown timer on my Bosch dishwasher, so I [im
 ## CrateDB
 
 * [CrateDB Explore](https://github.com/crate/cratedb-explore)
+* [Linksys Velop Watcher](https://github.com/srmadscience/linksys-velop-watcher)
 
 ## Other
 
 * [filewrangling-utils](https://github.com/srmadscience/filewrangling-utils) Utility classes for fixing flat files
-* [gdocs2md](https://github.com/srmadscience/gdocs2md) Convert a Google Drive Document to the Markdown format, suitable for publishing
+
 
