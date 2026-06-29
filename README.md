@@ -147,12 +147,12 @@ Below are some JDBCWizard related examples. The real code is (obviously) in a pr
 I got fed up with the lack of a countdown timer on my Bosch dishwasher, so I [implemented one](https://www.linkedin.com/posts/srmadscience_mqtt-at-home-for-fun-and-profit-i-have-activity-7425472798124523521-Yu3g?utm_source=share&utm_medium=member_desktop&rcm=ACoAAABZpVsBZ3JZV_O5Q_nBmZtQXy3bpIGlQK8) using a Raspberry Pi and an ePaper display
 
 * [bosch-dishwasher-control](https://github.com/srmadscience/bosch-dishwasher-control) An example of reading MQTT data from a bosch dishwasher and updating an ePaper sign.
-* [hcpy-hacked](https://github.com/srmadscience/hcpy-hacked)
+* [hcpy-hacked](https://github.com/srmadscience/hcpy-hacked) - A not very good tweak of HCPY. First up against the wall when the refactoring comes...
 
 ## CrateDB
 
-* [CrateDB Explore](https://github.com/crate/cratedb-explore)
-* [Linksys Velop Watcher](https://github.com/srmadscience/linksys-velop-watcher)
+* [CrateDB Explore](https://github.com/crate/cratedb-explore) - A repo supporting [CrateDB's scenarios](https://cratedb.com/) for web site users who want to try the product.
+* [Linksys Velop Watcher](https://github.com/srmadscience/linksys-velop-watcher) - An application to extract as much data as possible out of my misbehaving Linksys Velop mesh network.
 
 ## Other
 
