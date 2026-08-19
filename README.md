@@ -27,6 +27,25 @@ I have many years of experience working with data and was working with ‘Big Da
 
 Over time I've accumulated around 100 repos. The more interesting public ones are below.
 
+## MCP DB Wizard / OrindaBuild
+
+The product now known as "MCP Db Wizard" was launched as "OrindaBuild" in 2003. I wrote it over the course of a
+year after moving back from the US to Ireland. It was a 100% proprietary product delivered via a Windows Installer. 
+While it saw a reasonable degree of commerical success, it didn't take off and I moved on to other things. 
+
+23 years later the industry had seen big changes. Two of them matter for our purposes:
+
+* LLMs have resulted in the cost of writing software plummeting
+* MCP means that LLMs now need to interact with legacy Oracle databases.
+
+It turns out the the OrindaBuild code base is really, really good at this, and has already solved problems that are
+really hard to solve with an LLM coding assistant.
+
+[MCP DB Wizard](https://mcpdbwizard.com/) is available as an open source docker image, with enterprise features such as auditing, logging and metrics being
+chargable.
+
+[mcpdbwizard-open](https://github.com/srmadscience/mcpdbwizard-open
+
 ## Volt Active Data
 
 At Volt Active Data I am the authority on how to use the product in the real world. This 
