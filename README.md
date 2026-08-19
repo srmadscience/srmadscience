@@ -29,9 +29,16 @@ Over time I've accumulated around 100 repos. The more interesting public ones ar
 
 ## MCP DB Wizard / OrindaBuild
 
-The product now known as "MCP Db Wizard" was launched as "OrindaBuild" in 2003. I wrote it over the course of a
+The product now known as "MCP Db Wizard" was launched as "OrindaBuild" in 2003.
+
+When I moved back to Ireland from America I wrote and sold a product called "OrindaBuild", subsequently renamed "JDBCWizard".
+I wrote it over the course of a
 year after moving back from the US to Ireland. It was a 100% proprietary product delivered via a Windows Installer. 
 While it saw a reasonable degree of commerical success, it didn't take off and I moved on to other things. 
+It looks at stored procedure definitions in an Oracle database, and writes all the Java code needed to run them. This 
+isn't benign or simple, as Oracle's JDBC implementation allows you to pass multiple different kinds of complex objects
+back and forth, but the resulting API is a nightmare. Which is why I automated it. While I sold the product to some well 
+known businesses, I eventually moved on to other things.
 
 23 years later the industry had seen big changes. Two of them matter for our purposes:
 
@@ -46,6 +53,11 @@ chargable.
 
 The open source code base is 
 [mcpdbwizard-open](https://github.com/srmadscience/mcpdbwizard-open)
+
+Below are some JDBCWizard related examples.
+
+* [jdbcwizard-pub](https://github.com/srmadscience/jdbcwizard-pub) Public utility library for JDBCWizard. This code contains useful functionality for working with Oracle, JDBC and PL/SQL
+* [jdbcwizard-demo-code](https://github.com/srmadscience/jdbcwizard-demo-code) Examples of code generated for the built in demo.
 
 ## Volt Active Data
 
@@ -146,21 +158,6 @@ these have been tested at scale, as each one would run up an AWS bill to properl
 * [redis-charglt](https://github.com/srmadscience/redis-charglt) REDIS implementation of ChargLT
 * [mongodb-charglt](https://github.com/srmadscience/mongodb-charglt) Mongo implementation of Charglt
 * [postgres-charglt](https://github.com/srmadscience/postgres-charglt) Postgres implementation of Charglt
-
-## JDBCWizard
-
-When I moved back to Ireland from America I wrote and sold a product called "OrindaBuild", subsequently renamed "JDBCWizard".
-It looks at stored procedure definitions in an Oracle database, and writes all the Java code needed to run them. This 
-isn't benign or simple, as Oracle's JDBC implementation allows you to pass multiple different kinds of complex objects
-back and forth, but the resulting API is a nightmare. Which is why I automated it. While I sold the product to some well 
-known businesses, I eventually moved on to other things.
-
-Below are some JDBCWizard related examples. The real code is (obviously) in a private repo.
-
-* [jdbcwizard-pub](https://github.com/srmadscience/jdbcwizard-pub) Public utility library for JDBCWizard. This code contains useful functionality for working with Oracle, JDBC and PL/SQL
-* [jdbcwizard-dbhell](https://github.com/srmadscience/jdbcwizard-dbhell) This is a set of Oracle schemas designed to fully exercise what is syntacticly possible JDBCWizard can generate Java code to run all the examples here.
-* [jdbcwizard-test-code](https://github.com/srmadscience/jdbcwizard-test-code) Examples of code generated to test JDBCWizard.
-* [jdbcwizard-demo-code](https://github.com/srmadscience/jdbcwizard-demo-code) Examples of code generated for the built in demo.
 
 ## Home IOT
 
