@@ -44,7 +44,7 @@ really hard to solve with an LLM coding assistant.
 [MCP DB Wizard](https://mcpdbwizard.com/) is available as an open source docker image, with enterprise features such as auditing, logging and metrics being
 chargable.
 
-[mcpdbwizard-open](https://github.com/srmadscience/mcpdbwizard-open
+[mcpdbwizard-open](https://github.com/srmadscience/mcpdbwizard-open)
 
 ## Volt Active Data
 
