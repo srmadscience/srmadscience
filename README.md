@@ -54,6 +54,9 @@ chargable.
 The open source code base is 
 [mcpdbwizard-open](https://github.com/srmadscience/mcpdbwizard-open)
 
+The Demo is
+[mcpdbwizard-demo](https://github.com/srmadscience/mcpdbwizard-demo)
+
 Below are some JDBCWizard related examples.
 
 * [jdbcwizard-pub](https://github.com/srmadscience/jdbcwizard-pub) Public utility library for JDBCWizard. This code contains useful functionality for working with Oracle, JDBC and PL/SQL
