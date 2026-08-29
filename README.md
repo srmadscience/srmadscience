@@ -48,7 +48,7 @@ known businesses, I eventually moved on to other things.
 It turns out the the OrindaBuild code base is really, really good at this, and has already solved problems that are
 really hard to solve with an LLM coding assistant.
 
-[MCP DB Wizard](https://mcpdbwizard.com/) is available as an open source docker image, with enterprise features such as auditing, logging and metrics being
+[MCP DB Wizard](https://mcpdbwizard.com/) is available as an [open source docker image](https://github.com/srmadscience/mcpdbwizard-open/releases), with enterprise features such as auditing, logging and metrics being
 chargable.
 
 The open source code base is 
