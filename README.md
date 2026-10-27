@@ -153,7 +153,7 @@ are in the public repos below.
 
 ## Telco Charging Demo and Benchmark
 
-As a side project I have implemented the charging benchmark for REDIS, SingleStore and MongoDB. Note that none of 
+As a side project I have implemented the charging benchmark for REDIS, SingleStore, MongoDB, Postgres, Oracle and Aerospike. Note that none of 
 these have been tested at scale, as each one would run up an AWS bill to properly test.
 
 * [voltdb-charglt](https://github.com/srmadscience/voltdb-charglt) Charging Demo: A non-trivial telco focused Volt Active Data example
@@ -161,6 +161,8 @@ these have been tested at scale, as each one would run up an AWS bill to properl
 * [redis-charglt](https://github.com/srmadscience/redis-charglt) REDIS implementation of ChargLT
 * [mongodb-charglt](https://github.com/srmadscience/mongodb-charglt) Mongo implementation of Charglt
 * [postgres-charglt](https://github.com/srmadscience/postgres-charglt) Postgres implementation of Charglt
+* [oracle-charglt](https://github.com/srmadscience/oracle-charglt) Oracle implementation of Charglt
+* [aerospike-charglt](https://github.com/srmadscience/aerospike-charglt) Aerospike implementation of Charglt
 
 ## Home IOT
 
